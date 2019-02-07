@@ -7,6 +7,11 @@ Clone o repositório
 git clone git@github.com:HigoRibeiro/omnistack-backend.git
 ```
 
+Instale os pacotes necessários
+```
+npm install
+```
+
 Preencha a configuração do `MONGO_DB`
 
 ```
